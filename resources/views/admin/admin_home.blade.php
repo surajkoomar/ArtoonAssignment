@@ -8,7 +8,7 @@
                 <!-- <div class="card-header">Dashboard</div> -->
 
                 <div class="card-body">
-                <div class="col-md-12" align="right"><a href="{{'saveFile'}}">Add</a></div>      
+                <div class="col-md-12" align="right"><a href="{{'addUser'}}">Add</a></div>      
                 <table class="table" id="userData">
                     <thead>
                         <tr>
